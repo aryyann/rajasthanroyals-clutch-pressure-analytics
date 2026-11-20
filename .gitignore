@@ -1,0 +1,13 @@
+data/
+*.csv
+*.zip
+*.xlsx
+*.parquet
+*.pkl
+*.twbx
+rr_round1_tableau_private/
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
