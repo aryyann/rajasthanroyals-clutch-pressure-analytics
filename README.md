@@ -84,8 +84,6 @@ The original datasets were provided exclusively for Rajasthan Royals' SupeRR Sel
 
 The competition data is proprietary and is not included in this repository. Reproducing the analysis requires authorised access to those datasets.
 
-## Project Information
-
 **Author:** Aryan Gadkar
 
 **Project:**
