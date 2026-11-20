@@ -1,4 +1,4 @@
-# RR CLUTCH | Performance Under Pressure
+# Rajasthan Royals CLUTCH | Performance Under Pressure
 
 ### Cricket Analytics | Python | Statistical Modelling | Tableau
 
@@ -6,7 +6,7 @@
 
 RR CLUTCH is an independent cricket analytics project developed for Rajasthan Royals' SupeRR Selector Season 2.
 
-As a cricketer, I wanted to explore a question that conventional batting averages, strike rates and bowling figures cannot fully answer: **Which players consistently perform when match conditions become difficult?**
+I wanted to explore a question that conventional batting averages, strike rates and bowling figures cannot fully answer: **Which players consistently perform when match conditions become difficult?**
 
 The project combines cricketing understanding with statistical analysis to evaluate batting and bowling performance in specific pressure situations.
 
